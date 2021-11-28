@@ -23,6 +23,8 @@ app/styles/tailwind.css
 .DS_Store
 
 # local env files
+.env
+.env.*
 .env.local
 .env.*.local
 .envrc
